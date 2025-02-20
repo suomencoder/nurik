@@ -1,11 +1,7 @@
-# ☄️ Baglanov Alikhan
+# 🚀 Ibraim Nurbol
 
-**`🌱 NIS Student`**
-
-
-Write it. Run it. Fix it. Push it.
-
-
+**`Studying in NIS🌱`**
+Live.Love.Code.Enjoy.
 ---
 
 ### 🧰 Languages and Tools
