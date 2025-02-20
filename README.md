@@ -6,8 +6,7 @@ Live.Love.Code.Enjoy.
 
 ---
 
-### 🧰 Languages and Tools
-
+### 🔭 Programming languages and tools
 <p align="left">
 <img align="left" alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
