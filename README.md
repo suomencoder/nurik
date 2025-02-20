@@ -1,7 +1,9 @@
 # 🚀 Ibraim Nurbol
 
 **`Studying in NIS🌱`**
+
 Live.Love.Code.Enjoy.
+
 ---
 
 ### 🧰 Languages and Tools
