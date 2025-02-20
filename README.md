@@ -1,7 +1,7 @@
 # 🚀 Nurbol Ibraim
 
 > Studying in NIS
-🛠️ Live.Love.Code.Enjoy.
+>🛠️ Live.Love.Code.Enjoy.
 ---
 
 ## 🔭 Programming languages
