@@ -1,6 +1,6 @@
 # 🚀 Nurbol Ibraim
 
-> Studying in NIS
+> Studying in NIS >
 >🛠️ Live.Love.Code.Enjoy.
 ---
 
